@@ -6,10 +6,14 @@ Desenvolver uma aplicação web simples que permita ao usuário registrar suas d
 
 Tecnologias utilizadas:
 
-React
-JavaScript (ES6+)
-HTML5
-CSS3
+*React
+
+*JavaScript (ES6+)
+
+*HTML5
+
+*CSS3
+
 O que aprendi:
 
 Gerenciamento de Estado: utilização do hook "useState" para controlar os dados da aplicação de forma reativa;
